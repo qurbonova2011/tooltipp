@@ -1,0 +1,2 @@
+# tooltipp
+htmlda qilingan animatsiya
